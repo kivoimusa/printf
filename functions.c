@@ -184,6 +184,6 @@ int print_binary(va_list types, char buffer[],
 			count++;
 		}
 	}
-	return (county);
+	return (count);
 
 }
